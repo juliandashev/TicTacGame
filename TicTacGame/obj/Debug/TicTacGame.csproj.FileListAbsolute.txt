@@ -1,0 +1,21 @@
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe.config
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.pdb
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.exe
+C:\Users\Intel\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.pdb
+D:\source\repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe.config
+D:\source\repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe
+D:\source\repos\TicTacGame\TicTacGame\bin\Debug\TicTacGame.pdb
+D:\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csprojAssemblyReference.cache
+D:\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csproj.CoreCompileInputs.cache
+D:\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.exe
+D:\source\repos\TicTacGame\TicTacGame\obj\Debug\TicTacGame.pdb
+D:\GitHub Projects\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe.config
+D:\GitHub Projects\TicTacGame\TicTacGame\bin\Debug\TicTacGame.exe
+D:\GitHub Projects\TicTacGame\TicTacGame\bin\Debug\TicTacGame.pdb
+D:\GitHub Projects\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csprojAssemblyReference.cache
+D:\GitHub Projects\TicTacGame\TicTacGame\obj\Debug\TicTacGame.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\TicTacGame\TicTacGame\obj\Debug\TicTacGame.exe
+D:\GitHub Projects\TicTacGame\TicTacGame\obj\Debug\TicTacGame.pdb
